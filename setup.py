@@ -9,7 +9,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 
 setup(
     name="KanNet",
-    version='{{VERSION_PLACEHOLDER}}',
+    version='0.0.1',
     author="XuehangCang",
     author_email="XuehangCang@outlook.com",
     description="my amazing package",
